@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -83,8 +84,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
