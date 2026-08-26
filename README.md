@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -62,4 +63,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
