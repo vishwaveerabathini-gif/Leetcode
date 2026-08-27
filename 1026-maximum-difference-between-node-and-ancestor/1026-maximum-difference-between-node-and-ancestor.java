@@ -15,22 +15,21 @@
  */
 class Solution {
     static int max;
-    public void traverse(TreeNode root,ArrayList<Integer> arr){
+    public void traverse(TreeNode root,int i,int j){
         if(root==null){
             return;
         }
-        arr.add(root.val);
-        for(int i=0;i<arr.size();i++){
-            max=Math.max(max,Math.abs(arr.get(i)-arr.get(arr.size()-1)));
-        }
-        traverse(root.left,arr);
-        traverse(root.right,arr);
-        arr.remove(arr.size()-1);
+        i=Math.max(i,root.val);
+        j=Math.min(j,root.val);
+        traverse(root.left,i,j);
+        traverse(root.right,i,j);
+        max=Math.max(max,Math.abs(i-j));
     }
     public int maxAncestorDiff(TreeNode root) {
         max=0;
-        ArrayList<Integer> arr= new ArrayList<>();
-        traverse(root,arr);
+        int high=root.val;
+        int low=root.val;
+        traverse(root,high,low);
         return max;
     }
 }
