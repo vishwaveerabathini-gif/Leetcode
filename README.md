@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Cartesian Tree
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
@@ -119,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
