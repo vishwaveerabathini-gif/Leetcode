@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Cartesian Tree
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
 | ------- |
