@@ -14,7 +14,7 @@
  * }
  */
 class FindElements {
-    static TreeNode root;
+    TreeNode root;
     public void change(TreeNode root){
         if(root==null){
             return;
