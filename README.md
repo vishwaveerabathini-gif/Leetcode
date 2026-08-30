@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
 |  |
 | ------- |
