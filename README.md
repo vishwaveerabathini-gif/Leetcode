@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0814-binary-tree-pruning](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
