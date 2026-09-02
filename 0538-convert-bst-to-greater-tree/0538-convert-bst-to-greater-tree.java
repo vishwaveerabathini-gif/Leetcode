@@ -14,26 +14,20 @@
  * }
  */
 class Solution {
-    public TreeNode traverse(TreeNode root,HashSet<Integer> map){
+    static int z;
+    public TreeNode traverse(TreeNode root){
         if(root==null){
             return null;
         }
-        root.right=traverse(root.right,map);
-        if(!map.contains(root.val)){
-            map.add(root.val);
-        }
-        int s=0;
-        for(int x:map){
-            if(root.val<=x){
-                s+=x;
-            }
-        }
-        root.val=s;
-        root.left=traverse(root.left,map);
+        root.right=traverse(root.right);
+        z+=root.val;
+        root.val=z;
+        root.left=traverse(root.left);
         return root;
     }
     public TreeNode convertBST(TreeNode root) {
         HashSet<Integer> map=new HashSet<>();
-         return traverse(root,map); 
+        z=0;
+        return traverse(root); 
     }
 }
