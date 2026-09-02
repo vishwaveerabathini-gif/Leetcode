@@ -14,18 +14,18 @@
  * }
  */
 class Solution {
-    public TreeNode traverse(TreeNode root,HashMap<Integer,Integer> map){
+    public TreeNode traverse(TreeNode root,HashSet<Integer> map){
         if(root==null){
             return null;
         }
         root.right=traverse(root.right,map);
-        if(!map.containsKey(root.val)){
-            map.put(root.val,root.val);
+        if(!map.contains(root.val)){
+            map.add(root.val);
         }
         int s=0;
-        for(int x:map.keySet()){
+        for(int x:map){
             if(root.val<=x){
-                s+=map.get(x);
+                s+=x;
             }
         }
         root.val=s;
@@ -33,7 +33,7 @@ class Solution {
         return root;
     }
     public TreeNode convertBST(TreeNode root) {
-        HashMap<Integer,Integer> map=new HashMap<>();
+        HashSet<Integer> map=new HashSet<>();
          return traverse(root,map); 
     }
 }
