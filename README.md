@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
