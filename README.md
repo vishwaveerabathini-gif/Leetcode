@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0062-unique-paths) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0062-unique-paths) |
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
