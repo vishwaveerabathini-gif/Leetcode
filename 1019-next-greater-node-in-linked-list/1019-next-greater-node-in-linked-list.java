@@ -27,11 +27,10 @@ class Solution {
             i++;
         }
         int []arr=new int[i];
-        temp=head;
         i=0;
-        while(temp!=null){
-            check(temp,arr,i);
-            temp=temp.next;
+        while(head!=null){
+            check(head,arr,i);
+            head=head.next;
             i++;
         }
         return arr;
