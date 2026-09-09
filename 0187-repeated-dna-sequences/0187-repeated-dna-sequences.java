@@ -34,29 +34,44 @@ class Solution {
         //     z++;
         // }
         // return arr;
+        // ArrayList<String> arr=new ArrayList<>();
+        // HashMap<StringBuilder,Integer> map=new HashMap<>();
+        // StringBuilder sb=new StringBuilder();
+        // for(int i=0;i<10 && i<s.length();i++){
+        //     sb.append(s.charAt(i));
+        // }
+        // map.put(sb,1);
+        // int z=10;
+        // while(z<s.length()){
+        //     sb.deleteCharAt(0);
+        //     sb.append(s.charAt(z));
+        //     if(map.containsKey(sb)){
+        //         map.put(sb,map.get(sb)+1);
+        //     }else{
+        //         map.put(sb,1);
+        //     }
+        //     z++;
+        // }
+        // for(StringBuilder x:map.keySet()){
+        //     if(map.get(x)>=2){
+        //         arr.add(x.toString());
+        //     }
+        // }
+        // System.out.print(map);
+        // return arr;
+        HashSet<String> set=new HashSet<>();
         ArrayList<String> arr=new ArrayList<>();
-        HashMap<String,Integer> map=new HashMap<>();
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<10 && i<s.length();i++){
-            sb.append(s.charAt(i));
-        }
-        map.put(sb.toString(),1);
-        int z=10;
-        while(z<s.length()){
-            sb.deleteCharAt(0);
-            sb.append(s.charAt(z));
-            String r=sb.toString();
-            if(map.containsKey(r)){
-                map.put(r,map.get(r)+1);
+        HashSet<String> ans=new HashSet<>(); 
+        for(int i=0;i<s.length()-9;i++){
+            String r=s.substring(i,i+10);
+            if(set.contains(r)){
+                ans.add(r);
             }else{
-                map.put(r,1);
+                set.add(r);
             }
-            z++;
         }
-        for(String x:map.keySet()){
-            if(map.get(x)>=2){
-                arr.add(x);
-            }
+        for(String x:ans){
+            arr.add(x);
         }
         return arr;
     }
