@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [3904-smallest-stable-index-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0147-insertion-sort-list) |
+| [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
