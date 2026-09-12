@@ -16,7 +16,10 @@ class Solution {
                 }
             }
             for(int x:arr){
-                map.remove(x);
+                if(map.containsKey(x)){
+                    map.remove(x);
+                }
+                
             }
             if(map.containsKey(trips[i][2])){
                 map.put(trips[i][2],map.get(trips[i][2])+trips[i][0]);
