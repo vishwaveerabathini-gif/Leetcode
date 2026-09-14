@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Tree
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0814-binary-tree-pruning](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0897-increasing-order-search-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
