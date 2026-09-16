@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0063-unique-paths-ii) |
+| [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0147-insertion-sort-list) |
 | [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
+| [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Rolling Hash
 |  |
 | ------- |
