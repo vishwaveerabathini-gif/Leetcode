@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
