@@ -24,8 +24,6 @@ class Solution {
         if((sb.length())!=pattern.length()+1){
             if(pattern.charAt(pattern.length()-1)=='I'){
                 sb.append(Integer.toString(i+1));
-            }else{
-                sb.append(Integer.toString(i-1));
             }
         }
         return sb.toString();
