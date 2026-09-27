@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0063-unique-paths-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Recursion
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0147-insertion-sort-list) |
 | [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
+| [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Rolling Hash
 |  |
