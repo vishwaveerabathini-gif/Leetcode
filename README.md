@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0118-pascals-triangle) |
 | [0654-maximum-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0817-linked-list-components](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0817-linked-list-components) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0118-pascals-triangle) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
