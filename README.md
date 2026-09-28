@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Game Theory
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0147-insertion-sort-list) |
 | [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Rolling Hash
 |  |
