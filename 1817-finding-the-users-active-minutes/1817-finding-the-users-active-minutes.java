@@ -9,8 +9,7 @@ class Solution {
         }
         int[] ans=new int[k];
         for(int x:map.keySet()){
-            int s=map.get(x).size();
-            ans[s-1]+=1;
+            ans[map.get(x).size()-1]+=1;
         }
         return ans;
     }
