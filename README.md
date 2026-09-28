@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1817-finding-the-users-active-minutes](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1817-finding-the-users-active-minutes](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
