@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
