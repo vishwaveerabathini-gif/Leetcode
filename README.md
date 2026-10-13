@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Rolling Hash
 |  |
 | ------- |
