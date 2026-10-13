@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
