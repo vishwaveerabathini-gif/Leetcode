@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0187-repeated-dna-sequences](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0118-pascals-triangle) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
