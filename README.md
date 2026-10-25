@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0187-repeated-dna-sequences](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1021-remove-outermost-parentheses) |
