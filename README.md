@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0763-partition-labels](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Ordered Set
 |  |
