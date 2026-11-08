@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1267-count-servers-that-communicate](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0063-unique-paths-ii) |
+| [1267-count-servers-that-communicate](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [3446-sort-matrix-by-diagonals](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Recursion
@@ -300,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/vishwaveerabathini-gif/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
